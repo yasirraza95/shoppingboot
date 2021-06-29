@@ -13,5 +13,4 @@ public class ShoppingbootApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(ShoppingbootApplication.class, args);
 	}
-
 }
